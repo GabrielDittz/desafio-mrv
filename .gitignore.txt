@@ -1,0 +1,13 @@
+# Ignorar node_modules e arquivos de build do frontend
+frontend/node_modules/
+frontend/dist/
+
+# Ignorar arquivos de build e logs do backend .NET
+backend/bin/
+backend/obj/
+backend/*.user
+backend/*.suo
+backend/*.vscode
+
+# Outros arquivos desnecessários
+.env

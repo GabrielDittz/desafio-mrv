@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api-desafio-mrv", "Api-desafio-mrv\Api-desafio-mrv.csproj", "{FC494E10-197B-4A88-9CA6-8DEE25007E48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC494E10-197B-4A88-9CA6-8DEE25007E48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC494E10-197B-4A88-9CA6-8DEE25007E48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC494E10-197B-4A88-9CA6-8DEE25007E48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC494E10-197B-4A88-9CA6-8DEE25007E48}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19A6814C-DBFE-4F83-A8A1-1BF09C90218D}
+	EndGlobalSection
+EndGlobal
