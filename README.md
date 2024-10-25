@@ -7,7 +7,7 @@ Desafio para vaga na mrv.
 Este repositório contém duas partes principais:
 - **Frontend**: Aplicação desenvolvida em React.
 - **Backend**: API desenvolvida em .NET Core.
-- 
+  
 ## Tecnologias Utilizadas
 
 - **Frontend**:
@@ -33,22 +33,16 @@ Para executar este projeto em sua máquina, você precisará de:
 ### Backend
 
 1. Navegue até a pasta do backend:
-   ```bash
-   cd Api-desafio-mrv
-   dotnet restore
-   dotnet run
+   - cd Api-desafio-mrv
+   - dotnet restore
+   - dotnet run
 
-### Aplicando Migrations
-
-Se as migrations já estiverem incluídas no projeto, você pode aplicar as migrations utilizando o comando:
-
-```bash
-dotnet ef database update
+2. Se as migrations já estiverem incluídas no projeto, você pode aplicar as migrations utilizando o comando:
+- dotnet ef database update
 
 ### Frontend
 
 1. Navegue até a pasta do frontend:
-   ```bash
-   cd lead-management
-   npm install
-   npm start
+   - cd lead-management
+   - npm install
+   - npm start
